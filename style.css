@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body {
+    background-image:url(./image/ZA-en-20191203-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-size: cover;
+    color: white;
+   
+}
+#boxx {
+    margin: 200px 300px;
+    
+
+}
+#box1{
+    background-color: rgba(0,0,0,0.6);
+    margin: 30px 30px;
+
+}
+.box{
+    width: 10rem;
+    height: auto;
+    margin: 15px;
+    
+}
+
+#Net{
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+span{
+    color: red;
+}
+#thank{
+
+}
+
+#submit{
+    background-color: red;
+    padding: 5px 25px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 35%;
+}
+#submit:hover {
+    background: white;
+    color: red;
+    cursor: pointer;
+}
